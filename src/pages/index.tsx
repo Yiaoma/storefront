@@ -21,6 +21,8 @@ const CartItem = () => {
   );
 };
 
+// I'll do something
+
 const Index = () => {
   return (
     <section className="max-w-screen-2xl mx-auto">
