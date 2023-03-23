@@ -22,6 +22,7 @@ const CartItem = () => {
 };
 
 // I'll do something
+// Working on a shopify theme
 
 const Index = () => {
   return (
